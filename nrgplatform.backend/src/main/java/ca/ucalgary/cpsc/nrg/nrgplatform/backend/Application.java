@@ -1,4 +1,4 @@
-package org.nrg.nrgplatform.backend;
+package ca.ucalgary.cpsc.nrg.nrgplatform.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -8,7 +8,7 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.nrg</groupId>
+	<groupId>ca.ucalgary.cpsc.nrg</groupId>
 	<artifactId>nrgplatform.backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>nrgplatform.backend</name>
